@@ -60,8 +60,9 @@ From this project workspace execute: `pip install --requirement requirements.txt
 
 ### Download links
 
-Original training data (data directory): https://amoeba.wolfram.com/index.php/s/StYiCHLLY2PMGLJ
-Trained models (models directory): https://amoeba.wolfram.com/index.php/s/YLB3koFBGfkkz3B
+`Original training data (data directory)`: https://amoeba.wolfram.com/index.php/s/StYiCHLLY2PMGLJ
+
+`Trained models (models directory)`: https://amoeba.wolfram.com/index.php/s/YLB3koFBGfkkz3B
 
 ### Files in this workspace
 
